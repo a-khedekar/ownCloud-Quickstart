@@ -19,13 +19,13 @@ rpm -Uvh http://rpms.famillecollet.com/enterprise/remi-release-7.rpm
 ### Install LAMP stack
 Ensure that you have up and running LAMP server, before installing ownCloud. If not please use the following commands to setup the LAMP server.
 
-##### Install Apache
+#### Install Apache
 Use following command to install Apache.
 ```
 yum --enablerepo=remi,epel install httpd
 ```
 
-##### Install MySQL database
+#### Install MySQL database
 Run following commands to install MySQL database.
 ```
 yum --enablerepo=remi,epel install mysql-server
@@ -33,7 +33,7 @@ service mysqld start
 /usr/bin/mysql_secure_installation
 ```
 
-##### Install PHP
+#### Install PHP
 Run following commands to install PHP.
 ```
 yum --enablerepo=remi,epel install php php-mysql php-mcrypt php-curl php-gd php-xml php-dom php-mbstring

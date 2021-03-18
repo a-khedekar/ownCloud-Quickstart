@@ -94,6 +94,7 @@ Now that we have installed ownCloud our next step would be to configure ownCloud
 http://localhost/owncloud/
 ```
 You should see something like this:
+
 ![admin_img1](./imgs/admin1.png)
 
 To create an admin account choose a username and password of your choice, and click on the Storage & database option to provide the location of the data folder.

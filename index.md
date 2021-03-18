@@ -2,11 +2,7 @@
 
 ## Introduction
 
-Welcome to the ownCloud quick start guide. ownCloud is free and open-source file synchronization and sharing solution. ownCloud provides accessibility through web browsers, Android and iOS app or a desktop client(Linux, MacOS, Windows). This guide explains how to install and configure ownCloud server on RHEL 7 as an administrator. It further explores on the ways you can access ownCloud server once it has been installed and configured as a admin or an user. 
-This guide helps you to quickly get started on following tasks:
-- [Install and Configure ownCloud Server](#install-Configure-ownCloud-Server)
-- [Adding a New User account](#new-user-account)
-- [Connect to ownCloud Server](#connect-to-ownCloud-server)
+Welcome to the ownCloud quick start guide. ownCloud is free and open-source file synchronization and sharing solution. ownCloud provides accessibility through web browsers, Android and iOS app or a desktop client(Linux, MacOS, Windows). This guide explains how to install and configure ownCloud server on RHEL 7 as an administrator. It further explores on the ways you can access ownCloud server once it has been installed and configured as a admin or an user.
 
 ## Prerequisites 
 
